@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Se crean los archivos (ocultos) de git en los cuales se va a 
+	grabar todo el tracking de los commits y demás datos
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+	Stagin area es un espacio previo antes del commit, uno puede elegir que
+	archivos pasan al commit en esta etapa
+	El working directory es nuestra carpeta de trabajo
+	El repositorio es nuestro historial de los cambios/evolución
+	del proyecto en si
+

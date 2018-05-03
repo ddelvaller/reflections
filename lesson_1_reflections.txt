@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Porque me señala qué cosas cambiaron entre una versión y otra, lo que facilita ver dónde se cometió el error
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Porque me ayuda a rastrear el ciclo de vida del archivo,
+    qué cambios/mejoras se le hicieron al código
+    puedes aprender de los errores cometidos porque están documentados(?)
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    PRO manually: grabas lo que crees necesario (el avance), usas el editor que deseas,
+    puedes trabajar de manera online u offline
+    CON manually: tienes que acordarte de grabar cada versión (avance) tú mismo,
+    podrías grabar más o menos de lo que necesitas (depende de cuando te acuerdes)
+
+    PRO automatically: te despreocupas de esa tarea para concentrarte en el trabajo en si
+    CON automatically: puede grabar más versiones (algunas con cambios insignificantes) 
+    de las que sean necesarias
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Tiene que ver con el propósito del controlador de versiones (el tipo de archivos
+    con los que va a trabajar), los que no permiten guardar múltiples archivos 
+    de una sola vez es porque esos archivos no trabajan de manera relacionada unos
+    con otros, no son dependientes entre si
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log: te da la lista completa de todos los commits hechos hasta el momento
+    git diff: te muestra la diferencia entre dos commits diferentes, qué cambió,
+    cuántas líneas se añadieron y cuántas se quitaron
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Porque puedo cambiar entre versiones para poder observar los cambios
+    y poder hacer todos los "experimentos" necesarios sin necesidad de 
+    alterar el código "base"
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Deseo usarlo para mejorar mi nivel como desarrollador, ir a donde 
+    no me he permitido ir antes
