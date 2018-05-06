@@ -23,3 +23,9 @@ How would branches help?
 	Los branches me ayudan a experimentar o probar nuevas cosas sin alterar el código base
 	Esto es especialmente útil cuando deseo probar cosas nuevas sin miedo a 
 	malograr la versión "estable"
+
+How do the diagrams help you visualize the branch structure?
+
+	Me ayudan para saber la afinidad (parenting) que tiene el branch donde me encuentro
+	con el commit inicial o mejor dicho por el commit donde empieza ese nuevo
+	branch o checkout
