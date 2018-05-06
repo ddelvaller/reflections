@@ -12,3 +12,8 @@ What value do you think it offers?
 	El repositorio es nuestro historial de los cambios/evolución
 	del proyecto en si
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Puedo pasar sólo los archivos que quiero hacer commit al staging area
+	con eso me aseguro que los que voy a subir forme parte del "logical change"
+
