@@ -17,3 +17,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 	Puedo pasar sólo los archivos que quiero hacer commit al staging area
 	con eso me aseguro que los que voy a subir forme parte del "logical change"
 
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+	Los branches me ayudan a experimentar o probar nuevas cosas sin alterar el código base
+	Esto es especialmente útil cuando deseo probar cosas nuevas sin miedo a 
+	malograr la versión "estable"
