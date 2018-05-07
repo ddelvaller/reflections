@@ -1,0 +1,5 @@
+When would you want to create a remote repository rather than keeping all your work local?
+
+  Por ejemplo cuando quiero tener una copia de respalda de mi trabajo
+  O también para poder acceder a mi proyecto desde cualquier lugar y dispositivo
+  con acceso a internet.
