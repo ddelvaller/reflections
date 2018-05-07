@@ -29,3 +29,9 @@ How do the diagrams help you visualize the branch structure?
 	Me ayudan para saber la afinidad (parenting) que tiene el branch donde me encuentro
 	con el commit inicial o mejor dicho por el commit donde empieza ese nuevo
 	branch o checkout
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging dos branches resulta en combinar dos branches en uno solo, uno "absorbe" al otro
+	Se representa en un diagrama para ver los commits que se van a unir (desde - hasta) en un solo branch
+	qué branches van a ser afectados y cuáles se dejarán intactos en este proceso
