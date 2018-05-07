@@ -35,3 +35,12 @@ What is the result of merging two branches together? Why do we represent it in t
 	Merging dos branches resulta en combinar dos branches en uno solo, uno "absorbe" al otro
 	Se representa en un diagrama para ver los commits que se van a unir (desde - hasta) en un solo branch
 	qué branches van a ser afectados y cuáles se dejarán intactos en este proceso
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	PRO: que Git haga los merge automaticamente te salva mucho tiempo y esfuerzo de hacer
+	el mismo trabajo que te tomaría incluso horas en segundos
+	CON: hay veces que deberemos tomar una decisión porque existen un conflicto en ciertas
+	partes del código que son discutibles.
+	PRO of the CON: Git te señala dónde exactamente están esos conflictos para 
+	directamente ir a resolverlos
