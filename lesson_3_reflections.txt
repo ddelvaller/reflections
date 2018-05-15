@@ -3,3 +3,10 @@ When would you want to create a remote repository rather than keeping all your w
   Por ejemplo cuando quiero tener una copia de respaldo de mi trabajo
   O también para poder acceder a mi proyecto desde cualquier lugar y dispositivo
   con acceso a internet.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	Cuando sólo quiero subir los cambios después de hacer varias modificaciones
+	en vez de que todo se suba siempre.
+	Aunque mi preferencia sería de que se haga automáticamente... depende del caso
+	Ya veremos...
